@@ -16,24 +16,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/universero/universero/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-### 📊 GitHub Statistics
-
-<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" style="padding: 0;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=universero&show_icons=true&theme=default&hide_border=true&card_width=450" 
-        alt="GitHub Stats" 
-        style="width: 100%; max-width: 450px; height: auto; display: block;"
-      />
-    </td>
-    <td width="50%" style="padding: 0;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=universero&theme=default&layout=compact&hide_border=true&card_width=450" 
-        alt="Top Languages" 
-        style="width: 100%; max-width: 450px; height: auto; display: block;"
-      />
-    </td>
-  </tr>
-</table>
